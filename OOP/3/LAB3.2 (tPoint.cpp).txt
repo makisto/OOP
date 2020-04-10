@@ -1,0 +1,9 @@
+#include <iostream>
+#include <conio.h>
+#include <ctime>
+#include <graphics.h>
+#include "tPoint.h"
+
+tPoint::tPoint()
+{
+}
